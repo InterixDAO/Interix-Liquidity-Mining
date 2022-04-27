@@ -1,1 +1,1 @@
-# Gamely-Liquidity-Mining
+# Interix-Liquidity-Mining
